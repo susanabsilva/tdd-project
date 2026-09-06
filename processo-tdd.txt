@@ -1,0 +1,2 @@
+TDD é o processo de escrever o teste, executar e verificar a falha. 
+Depois, desenvolver o código até o teste passar e por ultimo, refatorar garantindo que nada seja quebrado.
