@@ -66,3 +66,5 @@ class ItemModelTest(TestCase):
 
         self.assertEqual(first_saved_item.text, 'O primeiro item')
         self.assertEqual(second_saved_item.text, 'O segundo item')
+
+    
